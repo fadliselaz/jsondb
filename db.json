@@ -1,0 +1,27 @@
+{
+  "posts" : [
+    
+    {
+      "id" : 1,
+      "title" : "Hello apa kabar..?",
+      "content" : "ini adalah contoh dari json server di github"
+    
+    },
+     {
+      "id" : 2,
+      "title" : "Hello apa kabar..?",
+      "content" : "ini adalah contoh dari json server di github"
+    
+    },
+     {
+      "id" : 3,
+      "title" : "Hello apa kabar..?",
+      "content" : "ini adalah contoh dari json server di github"
+    
+    },
+    
+  
+  ]
+
+
+}
