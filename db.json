@@ -3,19 +3,25 @@
     
     {
       "id" : 1,
-      "title" : "Hello apa kabar..?",
+      "title" : "Hello apa satu..?",
       "content" : "ini adalah contoh dari json server di github"
     
     },
      {
       "id" : 2,
-      "title" : "Hello apa kabar..?",
+      "title" : "Hello apa dua..?",
       "content" : "ini adalah contoh dari json server di github"
     
     },
      {
       "id" : 3,
-      "title" : "Hello apa kabar..?",
+      "title" : "Hello apa tiga..?",
+      "content" : "ini adalah contoh dari json server di github"
+    
+    },
+    {
+      "id" : 4,
+      "title" : "Hello apa empat..?",
       "content" : "ini adalah contoh dari json server di github"
     
     }
